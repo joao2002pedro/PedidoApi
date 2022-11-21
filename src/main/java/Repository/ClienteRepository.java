@@ -1,2 +1,4 @@
-package Repository;public interface ClienteRepository {
+package Repository;
+
+public interface ClienteRepository {
 }

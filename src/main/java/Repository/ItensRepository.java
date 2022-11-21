@@ -1,4 +1,4 @@
 package Repository;
 
-public interface PedidoRepository {
+public interface ItensRepository {
 }
