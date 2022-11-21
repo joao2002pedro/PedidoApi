@@ -1,4 +1,4 @@
-package Repository;
+package PedidoAPI.API.Repository;
 
 import PedidoAPI.API.entity.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -13,7 +13,6 @@ public class Itens {
     private Double precoIndividual;
     private Double precoTotal;
     private int quantidade;
-
     public Itens(String nome, Double precoIndividual, Double precoTotal, int quantidade) {
         this.nome = nome;
         this.precoIndividual = precoIndividual;
